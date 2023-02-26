@@ -1,8 +1,7 @@
-#!/bin/bash
 #include <stdio.h>
 
 /**
- * main - Prints the alphabet.
+ * main - Prints both cases of alphabet.
  *
  * Return: Always 0 (Success)
  */
